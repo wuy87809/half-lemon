@@ -1,1 +1,2 @@
 These are my practice notes using GitHub.
+I just edited this file directly on Github
